@@ -1,7 +1,7 @@
 import Button from ".";
 
 const meta = {
-  title: "Button Man",
+  title: "form/Button",
   component: Button,
 };
 
